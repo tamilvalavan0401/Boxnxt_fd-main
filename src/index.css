@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #4E2A84; 
+    --color-downfade: #A875D9; 
+    --color-homebx: #A766E5; 
+    --color-homebxborder: #B170EF; 
+    --color-hr: #9F6AD1; 
+    --color-Transactionhr: #EBEBEB; 
+    --color-dategr: #818181; 
+    /* --color-dategr: #E5D5F3;  */
+
+    /* reward page */
+    --color-invitbg: #FFECDE; 
+    --color-invitborder: #EBC9B0; 
+
+    /* bayfund */
+    --color-bayfundbxinside: #623E98; 
+    --color-limittop: #F9F3CE; 
+    --color-limitbottom: #F3E592; 
+    --color-limittext : #53210E; 
+    --color-todaybg : #E5D5F3;
+    --color-todayinside : #D9CAE7;
+    --color-buynowbroder : #F0F0F0;
+
+    /* funddetails */
+    --color-buynowbroder : #F0F0F0;
+    --color-fundinput : #F3EDF8;
+    --color-fundinputborder : #601DA0;
+
+    /* buyhistory */
+    --color-buyhistorydate : #F5F5F5;
+    --color-buyhistorydatebr : #EBEBEB;
+
+    /* reward */
+    --color-viewtext : #E5D5F3;
+    
+  }

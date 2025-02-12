@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+
+.doll-rs{
+  color: #FFF;
+
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%;
+}
+.rewardbg{
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(252,241,203,1) 100%);
+  border: 1px solid #F2E7C1;
+}
+.accound-hr{
+  /* height: 20px; */
+  /* background-color: #601DA0; */
+}
+
+.heading{
+  font-family: "Crimson Text";
+}
+/* .trophy{
+  width: 20px;
+} */
+.level-box{
+  box-shadow: 0px 0px 15px -4px rgb(209, 209, 209);
+}
+body{
+  /* background-color: #f3e8ff; */
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(245,229,255,1) 100%);
+  height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.login-three{
+  width: 226.803px;
+  height: 207.816px;
+  flex-shrink: 0;
+  background-color: #601DA0;
+  z-index: -999;
+  opacity: 0.2;
+  filter: blur(50px);
+  
+}
+.today-main{
+  background-color: #D9CAE7;
+}
+.today{
+  background-color: #cbbdd8;
+}
+.reg_text{
+  color: #000;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%; /* 16px */
+padding-bottom: 48px;
+text-transform: uppercase;
+}
