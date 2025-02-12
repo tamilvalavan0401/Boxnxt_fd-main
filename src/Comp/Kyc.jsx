@@ -32,6 +32,7 @@ const Kyc = () => {
                         </svg>
                     </div>
                 </li>
+                
                 <li className="flex w-full items-center after:content-[''] after:w-full after:h-1 after:border-b after:border-primary after:border-4 after:inline-block dark:after:border-gray-300">
                     <span className="flex items-center justify-center w-10 h-10 bg-primary rounded-full lg:h-12 lg:w-12 dark:bg-purple-100 border border-gray-300 shrink-0">
                         <svg className="w-4 h-4 text-primary lg:w-5 lg:h-5 dark:text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 16">
